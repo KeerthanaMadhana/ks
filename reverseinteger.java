@@ -12,7 +12,7 @@ public class Reverse {
     		 rev=rev*10+rem;
     		 n=n/10;
     	 }
-    	 System.out.println("Reverse ="+rev);
+    	 System.out.println("Reverse number is ="+rev);
      }
      
 }
